@@ -1,0 +1,7 @@
+__pycache__
+hello_world.wav
+Test/
+config.py
+env/ 
+/.vscode
+/myenv
